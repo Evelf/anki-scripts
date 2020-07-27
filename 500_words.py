@@ -1,4 +1,4 @@
-#! /home/eve/Documents/coréen/anki-python-files/anki-venv/bin/python
+#! /home/eve/Documents/coréen/prog/anki-venv/bin/python
 
 import bleach
 import html
@@ -11,7 +11,7 @@ from itertools import permutations
 
 
 apkg = Apkg("tmp-dir/All_Decks.apkg")
-wordlist_filename = "../TTMIK/My_First_500_Korean_Words/Day 02-vocabulary.txt"
+wordlist_filename = "../../TTMIK/My_First_500_Korean_Words/Day 02-vocabulary.txt"
 model_name = 'Ko + Translation + Dictation (opt)'
 
 print("Deck?")
