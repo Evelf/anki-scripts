@@ -1,0 +1,2 @@
+tmp-dir/*
+!tmp-dir/.keep
